@@ -97,7 +97,7 @@ def update_car():
     print("|         Update Mobil       |")
     print("+----------------------------+")
     list_cars()
-    car_name = input("Masukkan nama mobil yang ingin diperbarui: ")
+    car_name = input("Masukkan KT mobil yang ingin diperbarui: ")
     new_car_name = input("Masukkan nama mobil baru: ")
     new_car_price = input("Masukkan harga baru: ")
 
